@@ -1,0 +1,5 @@
+name: MagicItems
+version: '${version}'
+main: me.ultradev.magicitems.Main
+api-version: 1.18
+authors: [ UltraDev ]
